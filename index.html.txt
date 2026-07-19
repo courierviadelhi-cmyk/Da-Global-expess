@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DA Global Express</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<header>
+
+<div class="logo">
+DA Global Express
+</div>
+
+<nav>
+
+<a href="#">Home</a>
+
+<a href="#">About</a>
+
+<a href="#">Services</a>
+
+<a href="#">Tracking</a>
+
+<a href="#">Contact</a>
+
+</nav>
+
+</header>
+
+<section class="hero">
+
+<h1>Fast & Secure Courier Services</h1>
+
+<p>
+Delivering your parcels across India and Worldwide.
+</p>
+
+<button>Book Shipment</button>
+
+<button>Track Parcel</button>
+
+</section>
+
+<section class="services">
+
+<h2>Our Services</h2>
+
+<div class="cards">
+
+<div class="card">
+<h3>Domestic Courier</h3>
+<p>Fast delivery across India.</p>
+</div>
+
+<div class="card">
+<h3>International Shipping</h3>
+<p>Worldwide courier service.</p>
+</div>
+
+<div class="card">
+<h3>Document Delivery</h3>
+<p>Safe document transport.</p>
+</div>
+
+</div>
+
+</section>
+
+<footer>
+
+<p>
+
+© 2026 DA Global Express
+
+</p>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+
+</html>
